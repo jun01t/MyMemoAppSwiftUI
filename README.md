@@ -1,0 +1,2 @@
+# MyMemoAppSwiftUI
+CocoaPodsでRealmSwiftを追加して使用する。
